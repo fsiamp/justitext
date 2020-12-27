@@ -1,0 +1,14 @@
+application: justitext
+version: 1
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /(.*\.(gif|png|jpg|ico|js|css|lua|pdf|zip|txt|ipa))
+  static_files: \1
+  upload: (.*\.(gif|png|jpg|ico|js|css|lua|pdf|zip|txt|ipa))
+
+- url: /
+  script: index.html
+  
+
