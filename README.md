@@ -6,4 +6,4 @@ In justitext, users are able to click (or tap if it is used in mobile) and then 
 
 # Screenshot
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/justitext/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/justitext/master/screenshot.png)
