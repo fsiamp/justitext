@@ -2,8 +2,8 @@
 
 In justitext, users are able to click (or tap if it is used in mobile) and then hide small pieces of text.
 
-<B>URL:</B> https://fsiamp.github.io/justitext-app/
+<B>URL:</B> https://fsiamp.github.io/justitext
 
 # Screenshot
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/justitext-app/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/justitext/master/screenshot.png)
